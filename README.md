@@ -15,7 +15,7 @@
 
 
 
-## Stats
+## Statistics
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=net2devcrypto&layout=compact&theme=chartreuse-dark&count_private=true" />
