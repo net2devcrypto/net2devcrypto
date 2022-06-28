@@ -62,7 +62,7 @@
             alt="typescript" width="40" height="40" /> </a>
 </p>
 
-## ACHIEVEMENTS
+## Achievements
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
 <a href="https://skyline.github.com/net2devcrypto/2021" title="2021 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline-github.png" alt="2020 GitHub Skyline" width="45%" /></a>
 
