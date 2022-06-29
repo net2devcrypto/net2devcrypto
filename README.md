@@ -59,6 +59,12 @@
             height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
+            <a target="_blank"> <img
+            src="https://github.com/net2devcrypto/misc/blob/main/cciedc.png"
+            width="50" height="50" /> </a>
+            <a target="_blank"> <img
+            src="https://github.com/net2devcrypto/misc/blob/main/cciesp.png"
+            width="50" height="50" /> </a>
 </p>
 
 ## Achievements
