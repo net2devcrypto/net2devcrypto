@@ -61,10 +61,10 @@
             alt="typescript" width="40" height="40" /> </a>
             <a target="_blank"> <img
             src="https://github.com/net2devcrypto/misc/blob/main/cciedc.png"
-            width="50" height="50" /> </a>
+            width="60" height="50" /> </a>
             <a target="_blank"> <img
             src="https://github.com/net2devcrypto/misc/blob/main/cciesp.png"
-            width="50" height="50" /> </a>
+            width="60" height="50" /> </a>
 </p>
 
 ## Achievements
