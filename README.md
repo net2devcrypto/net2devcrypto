@@ -24,11 +24,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=net2devcrypto&theme=chartreuse-dark" />
 </div>
 <h3 align="left">Languages, Skills and Tools</h3>
-<p align="left"> <code> <img
+<p align="left"> <a> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </code> <code href="https://angular.io" target="_blank"> <img
+    </a> <a href="https://angular.io" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="40" height="40" /> </code> <a href="https://aws.amazon.com" target="_blank"> <img
+            alt="angularjs" width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
