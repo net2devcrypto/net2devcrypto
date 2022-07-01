@@ -62,7 +62,7 @@
             <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-data-center-v2.html" target="_blank"> <img
             src="https://github.com/net2devcrypto/misc/blob/main/cciedc.png"
             width="60" height="50" /> </a>
-            <a target="_blank"> <img
+            <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-service-provider-v2.html" target="_blank"> <img
             src="https://github.com/net2devcrypto/misc/blob/main/cciesp.png"
             width="60" height="50" /> </a>
 </p>
