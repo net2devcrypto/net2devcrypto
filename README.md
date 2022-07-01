@@ -10,8 +10,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=AmazingWeb3-NFTStake-Mint-FrontEnd&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/AmazingWeb3-NFTStake-Mint-FrontEnd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Simple-ERC20-AirdropServer&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Simple-ERC20-AirdropServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Amazing-Web3-React-Bootstrap-NFTMinter&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Amazing-Web3-React-Bootstrap-NFTMinter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=nftstaking&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/nftstaking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=n2D-IPFS-NFT-Puller-React-NextJS-NOAPI&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/n2D-IPFS-NFT-Puller-React-NextJS-NOAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=nftstaking&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/nftstaking)
 
 
 
