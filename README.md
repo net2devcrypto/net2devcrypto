@@ -20,8 +20,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Solidity](https://img.shields.io/badge/solidity-6DA55F?&style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/ethereum-6DA55F?&style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-2b5b84?&style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/polygon-2b5b84?&style=for-the-badge&logo=polygon&logoColor=white)
 
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
