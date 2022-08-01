@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Net2Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Official%20GitHub%20Youtube%20Repo%20Follow%20Me!&descAlignY=51&descAlign=62)
 
+<div class='row'>
+  <a>
 <img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
 <img src="https://github.com/net2devcrypto/misc/blob/main/polygonwhite2.png" width="150" height="40"/>
 <img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
 </a>
+  </div>
 
 [![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 
