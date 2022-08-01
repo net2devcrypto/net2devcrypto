@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Net2Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Official%20GitHub%20Youtube%20Repo%20Follow%20Me!&descAlignY=51&descAlign=62)
-<a align='center' href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/net2dev-sociallogo.png" width="180" height="40"/>
-<h2 align='center'>Official Github YouTube Repo -- Follow me! </h2>
 
 <img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
 <img src="https://github.com/net2devcrypto/misc/blob/main/polygonwhite2.png" width="150" height="40"/>
