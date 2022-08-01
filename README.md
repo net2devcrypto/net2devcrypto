@@ -4,7 +4,7 @@
 <img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
 </a>
 
-[![net2dev.eth](https://img.shields.io/static/v1?label=&message=net2dev.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
+[![net2dev.eth](https://img.shields.io/static/v2?label=&message=net2dev.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=4" />
