@@ -4,7 +4,6 @@
 <img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
 </a>
 
-<h3>⚙️ GitHub Analytics</h3>
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
