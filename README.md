@@ -6,9 +6,6 @@
 
 <h3>⚙️ GitHub Analytics</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=net2devcrypto&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=net2devcrypto&layout=compact&theme=gotham&hide_border=1" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=net2devcrypto&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
