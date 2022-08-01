@@ -7,7 +7,7 @@
 [![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=algolia&no-bg=true&no-frame=true&row=1&column=4" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
