@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=4" />
 </p>
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
