@@ -4,6 +4,7 @@
 <img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
 </a>
 
+[![net2dev.eth](https://img.shields.io/static/v1?label=&message=net2dev.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=darkhub&no-bg=true&no-frame=true&row=1&column=4" />
@@ -19,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-6DA55F?&style=for-the-badge&logo=solidity&logoColor=white)
 
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
