@@ -34,6 +34,7 @@
 
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=NFT-Bridge-Web3-Portal-NextJS-EthersJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=N2D-NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/N2D-NFT-Marketplace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=AmazingWeb3-NFTStake-Mint-FrontEnd&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/AmazingWeb3-NFTStake-Mint-FrontEnd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Simple-ERC20-AirdropServer&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Simple-ERC20-AirdropServer)
