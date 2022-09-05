@@ -9,7 +9,7 @@
   </div>
 
 [![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
-<img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/public/alchemy-white.png" width="200" height="30"/>
+<img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/public/alchemy-white.png" width="200" height="45"/>
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=algolia&row=1&column=4&margin-w=5" />
