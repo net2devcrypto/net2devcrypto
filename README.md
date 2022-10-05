@@ -50,6 +50,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=n2D-IPFS-NFT-Puller-React-NextJS-NOAPI&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/n2D-IPFS-NFT-Puller-React-NextJS-NOAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=nftstaking&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/nftstaking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=0x-Protocol-DeFI-Swap-NextJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/0x-Protocol-DeFI-Swap-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=MongoDB-with-NextJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/MongoDB-with-NextJS)
 
 ## Statistics
 
