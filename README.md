@@ -41,7 +41,7 @@
 </p>
 
   
-[![Readme Card](https://net2devcrypto-net2devcrypto.vercel.app/api/pin/?username=net2devcrypto&repo=erc20-token-live-price-chart&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/erc20-token-live-price-chart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=erc20-token-live-price-chart&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/erc20-token-live-price-chart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=NFT-Bridge-Web3-Portal-NextJS-EthersJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=N2D-NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/N2D-NFT-Marketplace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=AmazingWeb3-NFTStake-Mint-FrontEnd&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/AmazingWeb3-NFTStake-Mint-FrontEnd)
