@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Net2Dev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Official%20GitHub%20Youtube%20Repo%20Follow%20Me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Net2Dev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20/%20Mobile%20Developer%20(React%20js,%20React%20Native)&descAlignY=51&descAlign=62)
 
 <div class='row'>
   <a>
