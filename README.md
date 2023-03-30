@@ -36,7 +36,6 @@
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
   <p align="left">
   <a href="https://www.youtube.com/channel/UC0NtdkyM5oIhxDTKsxO7bbA">
-    <img src="https://img.shields.io/youtube/channel/views/UC0NtdkyM5oIhxDTKsxO7bbA?color=green&label=Youtube&logo=Youtube&style=for-the-badge" alt="Net2Dev YouTube channel"/>
   </a>
 </p>
 
