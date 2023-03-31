@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Net2Dev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Official%20GitHub%20Youtube%20Repo%20Follow%20Me!&descAlignY=51&descAlign=62)
-
 <div class='row'>
   <a>
 <img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
