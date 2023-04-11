@@ -31,14 +31,14 @@
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
 
+[![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
+
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
   <p align="left">
   <a href="https://www.youtube.com/channel/UC0NtdkyM5oIhxDTKsxO7bbA">
   </a>
 </p>
 
-[![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Web3-NFT-User-Authentication&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Web3-NFT-User-Authentication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=NFT-Bridge-Web3-Portal-NextJS-EthersJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=N2D-NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/N2D-NFT-Marketplace)
