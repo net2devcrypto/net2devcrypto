@@ -30,10 +30,9 @@
 
 
 
-<h4>💥Net2Dev Official Discord</h4>
-<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="168" height="40"/>
+<h5>💥Net2Dev Official Discord</h5>
+<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="138" height="40"/>
 <p>Click to join:</p>
-
 [![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
 
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
