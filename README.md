@@ -29,7 +29,11 @@
 ![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
 
 
-<h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
+
+<h3>💥Net2Dev Official Discord</h3>
+<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="368" height="60"/>
+
+<p>Click to join:</p>
 
 [![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
 
@@ -38,6 +42,8 @@
   <a href="https://www.youtube.com/channel/UC0NtdkyM5oIhxDTKsxO7bbA">
   </a>
 </p>
+  
+<h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Web3-NFT-User-Authentication&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Web3-NFT-User-Authentication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=NFT-Bridge-Web3-Portal-NextJS-EthersJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS)
