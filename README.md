@@ -31,8 +31,7 @@
 
 
 <h4>💥Net2Dev Official Discord</h4>
-<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="268" height="60"/>
-
+<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="168" height="40"/>
 <p>Click to join:</p>
 
 [![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
