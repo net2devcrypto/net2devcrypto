@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Net2Dev&height=100&section=header"/>
+</p>
+
 <div class='row'>
   <a>
 <img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
