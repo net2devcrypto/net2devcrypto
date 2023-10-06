@@ -52,7 +52,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Alchemy-SDK-Quick-NFT-Market&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=MidJourney-AI-Image-Generator-API-NodeJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/MidJourney-AI-Image-Generator-API-NodeJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Amazing-Web3-React-Bootstrap-NFTMinter&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Amazing-Web3-React-Bootstrap-NFTMinter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=n2D-IPFS-NFT-Puller-React-NextJS-NOAPI&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/n2D-IPFS-NFT-Puller-React-NextJS-NOAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Build-Your-DeFI-Staking-dApp&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Build-Your-DeFI-Staking-dApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=nftstaking&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/nftstaking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=0x-Protocol-DeFI-Swap-NextJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/0x-Protocol-DeFI-Swap-NextJS)
 
