@@ -61,9 +61,9 @@
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=net2devcrypto&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=net2devcrypto&theme=chartreuse-dark" />
-</div>
+
+[![Net2Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=net2devcrypto&theme=github-compact)]
+
 <h3 align="left">Languages, Skills and Tools</h3>
 <p align="left"> <a> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
