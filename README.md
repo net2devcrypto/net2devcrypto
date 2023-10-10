@@ -48,11 +48,10 @@
 <a href="https://star-history.com/#net2devcrypto/nftstaking&net2devcrypto/N2D-NFT-Marketplace&net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&Timeline">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline"&theme=dark" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline" />
   </picture>
 </a>
-
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
 
