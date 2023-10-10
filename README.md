@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-![Net2Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=net2devcrypto&theme=github-compact)
+[![Net2Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=net2devcrypto&theme=github-compact)]
 </div>
 
 <h3 align="left">Languages, Skills and Tools</h3>
