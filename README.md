@@ -62,9 +62,7 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=net2devcrypto&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
 
-<div align="center">
 [![Net2Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=net2devcrypto&theme=github-compact)]
-</div>
 
 <h3 align="left">Languages, Skills and Tools</h3>
 <p align="left"> <a> <img
