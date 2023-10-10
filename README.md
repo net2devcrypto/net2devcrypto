@@ -45,11 +45,11 @@
 
 ## Star History
 
-<a href="https://star-history.com/#net2devcrypto/nftstaking&net2devcrypto/N2D-NFT-Marketplace&net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&Timeline">
+<a href="https://star-history.com/#net2devcrypto/nftstaking&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline"&theme=dark" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking,net2devcrypto/N2D-NFT-Marketplace,net2devcrypto/0x-Protocol-DeFI-Swap-NextJS&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
   </picture>
 </a>
 
