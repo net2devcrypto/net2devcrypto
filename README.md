@@ -43,16 +43,6 @@
   </a>
 </p>
 
-## Star History
-
-<a href="https://star-history.com/#net2devcrypto/nftstaking&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
-  </picture>
-</a>
-
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Web3-NFT-User-Authentication&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Web3-NFT-User-Authentication)
@@ -76,6 +66,15 @@
 
 [![Net2Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=net2devcrypto&theme=github-compact)](https://github.com/net2devcrypto?tab=repositories)
 
+## Star History
+
+<a href="https://star-history.com/#net2devcrypto/nftstaking&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=net2devcrypto/nftstaking&type=Timeline" />
+  </picture>
+</a>
 
 <h3 align="left">Languages, Skills and Tools</h3>
 <p align="left"> <a> <img
