@@ -23,7 +23,7 @@
 <table>
 <tbody>
   <tr>
-    <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/ERC-404-Deploy-Contract-and-UniswapV3-Tutorial"><img src="https://github.com/net2devcrypto/misc/blob/main/lava.svg" width="130px;" alt="Latest"/><br /><sub><b>Latest Repo!</b></sub></a><br />👨🏻‍💻</a></td>
+    <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/ERC-404-Deploy-Contract-and-UniswapV3-Tutorial"><img src="https://github.com/net2devcrypto/misc/blob/main/lava.svg" width="130px;" alt="Latest"/><br /><sub><b>Latest Tutorial!</b></sub></a><br />👨🏻‍💻</a></td>
     <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Solidity-CheatSheets"><img src="https://github.com/net2devcrypto/misc/blob/main/book.svg" width="130px;" alt="Solidity Cheatsheets"/><br /><sub><b>Solidity Cheatsheets</b></sub></a><br />⛓️</a></td>
         <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Build-Your-DeFI-Staking-dApp"><img src="https://github.com/net2devcrypto/misc/blob/main/deficoin.svg" width="130px;" alt="DeFI Staking"/><br /><sub><b>DeFI Staking Tutorial</b></sub></a><br />🤑</a></td>
 <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Algorithmic-Stablecoin-ERC20"><img src="https://github.com/net2devcrypto/misc/blob/main/algstable.svg" width="130px;" alt="Algo Stable"/><br /><sub><b>Algo Stablecoin Tutorial</b></sub></a><br />🤑</a></td>
