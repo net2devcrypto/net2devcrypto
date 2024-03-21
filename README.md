@@ -31,7 +31,7 @@
 </tbody>
 </table>
 
-<img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="138" height="40"/>
+<a href="https://discord.gg/PhMBNrjReG"><img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="138" height="40"/></a>
 
 [![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
 
