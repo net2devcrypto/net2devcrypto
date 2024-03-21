@@ -2,13 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Net2Dev&height=100&section=header"/>
 </p>
 
-<div class='row'>
-  <a>
-<img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
-<img src="https://github.com/net2devcrypto/misc/blob/main/polygonwhite2.png" width="150" height="40"/>
-<img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
-</a>
+  <div class='row'>
+    <div class='col' style="left: 15px; top: 15px;">
+    <img src="https://ethereum.org/en/_next/static/media/eth-glyph-colored.434446fa.png" width="50" height="85" class='mr-2'/>
+    <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F84d33469-d6ef-48b6-9824-9570fc245a5a%2FWhite_on_Gradient_Circle.png?id=d05c50cf-35fc-4a93-b645-c38a5210aa3c&table=block&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&width=2000&userId=&cache=v2" width="55" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/images/Profile-Logo.png" width="55" height="55"/>
+      <img src="https://github.com/net2devcrypto/misc/blob/main/arbitrium.svg" width="55" height="55"/>
+      <img src="https://github.com/net2devcrypto/misc/blob/main/chainlink-link-logo.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/uni.png" width="65" height="65"/>
   </div>
+</div>
 
 [![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 
