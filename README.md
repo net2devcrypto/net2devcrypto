@@ -20,21 +20,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=algolia&row=1&column=4&margin-w=5" />
 </p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react%20native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-<br>
-![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-<br>
-![Solidity](https://img.shields.io/badge/solidity-2b5b84?&style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
-
+<table>
+<tbody>
+  <tr>
+    <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/ERC-404-Deploy-Contract-and-UniswapV3-Tutorial"><img src="https://github.com/net2devcrypto/misc/blob/main/lava.svg" width="130px;" alt="Latest"/><br /><sub><b>Latest Repo!</b></sub></a><br />👨🏻‍💻</a></td>
+    <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Solidity-CheatSheets"><img src="https://github.com/net2devcrypto/misc/blob/main/book.svg" width="130px;" alt="Solidity Cheatsheets"/><br /><sub><b>Solidity Cheatsheets</b></sub></a><br />⛓️</a></td>
+        <td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Build-Your-DeFI-Staking-dApp"><img src="https://github.com/net2devcrypto/misc/blob/main/deficoin.svg" width="130px;" alt="DeFI Staking"/><br /><sub><b>DeFI Staking Tutorial</b></sub></a><br />🤑</a></td>
+<td align="center" valign="top" width="15.28%"><a href="https://github.com/net2devcrypto/Algorithmic-Stablecoin-ERC20"><img src="https://github.com/net2devcrypto/misc/blob/main/algstable.svg" width="130px;" alt="Algo Stable"/><br /><sub><b>Algo Stablecoin Tutorial</b></sub></a><br />🤑</a></td>
+  </tr>
+</tbody>
+</table>
 
 <img src="https://github.com/net2devcrypto/misc/blob/main/discord.png" width="138" height="40"/>
 
