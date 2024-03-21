@@ -119,6 +119,21 @@
             width="60" height="50" /> </a>
 </p>
 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react%20native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<br>
+![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+<br>
+![Solidity](https://img.shields.io/badge/solidity-2b5b84?&style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
+
 ## Achievements
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
 <a href="https://skyline.github.com/net2devcrypto/2023" title="2023 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline.png" alt="2023 GitHub Skyline" width="45%" /></a>
