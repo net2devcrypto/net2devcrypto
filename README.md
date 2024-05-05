@@ -35,12 +35,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/PhMBNrjReG)](https://discord.gg/PhMBNrjReG)
 
-<h5>💥Net2Dev Youtube</h5>
-<a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
-  <p align="left">
-  <a href="https://www.youtube.com/channel/UC0NtdkyM5oIhxDTKsxO7bbA">
-  </a>
-</p>
+<img src="https://github.com/net2devcrypto/misc/blob/main/github-contribution-grid-snake-dark.svg">
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
 
