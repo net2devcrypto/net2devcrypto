@@ -5,7 +5,7 @@
   <div class='row'>
     <div class='col' style="left: 15px; top: 15px;">
     <img src="https://ethereum.org/en/_next/static/media/eth-glyph-colored.434446fa.png" width="50" height="85" class='mr-2'/>
-    <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F84d33469-d6ef-48b6-9824-9570fc245a5a%2FWhite_on_Gradient_Circle.png?id=d05c50cf-35fc-4a93-b645-c38a5210aa3c&table=block&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&width=2000&userId=&cache=v2" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/maticlogo.png" width="55" height="55"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/images/Profile-Logo.png" width="55" height="55"/>
       <img src="https://github.com/net2devcrypto/misc/blob/main/arbitrium.svg" width="55" height="55"/>
