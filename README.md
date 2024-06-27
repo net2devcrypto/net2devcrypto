@@ -4,7 +4,7 @@
 
   <div class='row'>
     <div class='col' style="left: 15px; top: 15px;">
-    <img src="https://ethereum.org/en/_next/static/media/eth-glyph-colored.434446fa.png" width="50" height="85" class='mr-2'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/256px-Ethereum_logo_2014.svg.png" width="50" height="85" class='mr-2'/>
     <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/maticlogo.png" width="55" height="55"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/images/Profile-Logo.png" width="55" height="55"/>
